@@ -1,47 +1,27 @@
-<!-- ===================================================== -->
-<!--                 PAVITHRA S - PROFILE                  -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F00FF,50:5B2CFF,100:00C9FF&amp;height=230&amp;section=header&amp;text=Pavithra%20S&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=MCA%20Student%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descSize=16&amp;descAlignY=55"
-  width="100%"
-  alt="Pavithra S Header"
-/>
+# 👋 Hi, I'm Pavithra S
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;pause=1000&amp;color=8A7CFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;MCA+Student+at+RNSIT+%F0%9F%8E%93;Aspiring+Java+Full+Stack+Developer+%E2%98%95;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;SAP+Certified+Professional+%E2%98%81%EF%B8%8F;Building+Solutions+That+Create+Impact+%F0%9F%9A%80"
-  alt="Typing Animation"
-/>
+### 🎓 MCA Student | ☕ Java Full Stack Developer | 🤖 AI & ML Enthusiast | ☁️ SAP Certified
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7F00FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Welcome+to+my+GitHub+Profile;Passionate+about+Java+Full+Stack+Development;Exploring+AI+and+Machine+Learning;Building+Real-World+Tech+Solutions" alt="Typing Animation" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pavithra-sendhil-nadhan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/PavithraSendhil">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PavithraSendhil&amp;label=Profile%20Views&amp;color=7F00FF&amp;style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
-
-## 👩‍💻 About Me
-
-```java
-public class PavithraS {
-
-    String education = "MCA @ RNSIT";
-    String careerGoal = "Java Full Stack Developer";
-
-    String[] interests = {
-        "Backend Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cloud Technologies"
-    };
-
-    String[] certifications = {
-        "SAP Business Data Cloud",
-        "SAP HANA DBA"
-    };
-
-    void mission() {
-        System.out.println(
-            "Learn. Build. Innovate. Create Impact."
-        );
-    }
-}
